@@ -1,1 +1,1 @@
-# react-ecommerce-minimal-website
+# react-anime-store-project
